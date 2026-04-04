@@ -3,11 +3,8 @@
 | Field | Details |
 |-------|---------|
 | **ID** | QBGT-P-1 |
-
 | **Summary** | Login button becomes active if inputted into email and password field when matches the requirement |
-
 | **Pre-Condition** | User account is already created with valid credential |
-
 | **Status** | Pass |
 
 ## Steps
@@ -23,4 +20,4 @@ Login button become active and the green highlighting is presented
 Login button become active and the green highlighting is present
 
 ## Post-Conditions
-      /-
+\-
