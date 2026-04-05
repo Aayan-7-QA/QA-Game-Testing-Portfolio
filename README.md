@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayan — Aspiring QA Tester
+# 👋 Hi, I'm Ayan — QA Tester
 
 ## About Me
 Aspiring QA Game Tester with hands-on 
@@ -26,3 +26,4 @@ gameplay, UI, audio, performance and more.
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/aayanqa/
+- Email: ayankhan4693@gmail.com
